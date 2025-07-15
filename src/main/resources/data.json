@@ -1,0 +1,35 @@
+{
+  "title": "The Shawshank Redemption",
+  "description": "Un banquero es encarcelado por un crimen que no cometió y encuentra esperanza a través de la amistad.",
+  "dueDate": "1994-09-22",
+  "priority": "Alta",
+  "completed": true
+}
+{
+  "title": "Inception",
+  "description": "Un ladrón especializado en robar secretos del subconsciente recibe el desafío de implantar una idea en la mente de un objetivo.",
+  "dueDate": "2010-07-16",
+  "priority": "Media",
+  "completed": true
+}
+{
+  "title": "Spirited Away",
+  "description": "Una niña se adentra en un mundo mágico donde debe rescatar a sus padres y encontrar su camino de regreso.",
+  "dueDate": "2001-07-20",
+  "priority": "Alta",
+  "completed": true
+}
+{
+  "title": "The Godfather",
+  "description": "La historia de una poderosa familia de la mafia italiana y la sucesión de su liderazgo.",
+  "dueDate": "1972-03-24",
+  "priority": "Alta",
+  "completed": true
+}
+{
+  "title": "Interstellar",
+  "description": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+  "dueDate": "2014-11-07",
+  "priority": "Alta",
+  "completed": true
+}
