@@ -1,4 +1,4 @@
-package com.solera.taskapi.model.respository;
+package com.solera.taskapi.respository;
 
 import com.solera.taskapi.model.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
